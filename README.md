@@ -1,15 +1,10 @@
-Sure, here's an example of a repository name and description for your project:
 
-**Repository Name:** `somali-nlp-document-similarity`
-
-**Description:**
-```
-Somali NLP Document Similarity using BERT
+### Somali NLP Document Similarity using BERT
 ==========================================
 
 This repository contains the implementation of a document similarity project focused on the Somali language. The project utilizes Natural Language Processing (NLP) techniques and leverages the BERT model to compute the similarity between documents. The steps include data preprocessing, handling missing values, removing duplicates, removing stop words, exploratory data analysis (EDA), and training and evaluating the BERT model.
 
-Features:
+### Features:
 - Data reading and preprocessing with Pandas
 - Handling missing values and removing duplicates
 - Stop words removal specific to the Somali language
